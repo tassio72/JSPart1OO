@@ -5,5 +5,7 @@ seguindo o modelo MVC.
 
 Aqui foi usado:
 
-HTML5, CSS3, JavaScript e versionamento no Git.
+HTML5, CSS3, JavaScript puro e versionamento no Git.
+
+O projeto aborda, além da estrutura HTML, o uso consciênte de código usando JavaScript puro. Evitando repetição de código e separando arquivos de acordo com suas responsabilidades, além da criação de Object Stores via IndexedDB. 
 
